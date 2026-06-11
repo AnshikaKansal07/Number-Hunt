@@ -31,7 +31,6 @@ A terminal-based number guessing game with higher/lower hints.
 ---
 
 ## 4. Screenshot
-<!-- upload your screenshot and replace the link below -->
 <img width="765" height="311" alt="Image" src="https://github.com/user-attachments/assets/80024c44-946e-41d5-954e-cb1d9edb4070" />
 
 ---
